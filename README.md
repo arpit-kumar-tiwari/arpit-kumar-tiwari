@@ -73,21 +73,6 @@ I'm a passionate **Software Engineer** and **MERN Stack Developer** who believes
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=arpit-kumar-tiwari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit-kumar-tiwari&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-kumar-tiwari&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" />
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
