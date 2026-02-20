@@ -6,7 +6,6 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=arpit-kumar-tiwari.arpit-kumar-tiwari&left_text=Profile%20views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/arpit-kumar-tiwari?label=Followers&style=social" />
 
 </div>
 
@@ -16,10 +15,10 @@
 
 I'm a passionate **Software Engineer** and **MERN Stack Developer** who believes that learning never stops — it only upgrades. I enjoy building scalable full-stack web applications and am always on the lookout for exciting collaboration opportunities.
 
-- 🔭 Currently working on **Java** and deepening backend expertise
+- 🔭 Currently working on **Java**
 - 👯 Looking to collaborate on **Full Stack Web Projects**
 - 💬 Ask me about **React, Node.js, Express, MongoDB, or Java**
-- 📫 Reach me at: *[arpitkumartiwari382@gmail.com]*
+- 📫 Reach me at: *arpitkumartiwari382@gmail.com*
 - ⚡ Fun fact: *"The best code is the code you write today that your future self can still read tomorrow."*
 
 ---
@@ -66,10 +65,13 @@ I'm a passionate **Software Engineer** and **MERN Stack Developer** who believes
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-**Tools & Version Control**
+**Tools, Deployment & Version Control**
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
@@ -84,8 +86,7 @@ I'm a passionate **Software Engineer** and **MERN Stack Developer** who believes
 
 <div align="center">
 
-### 💡 *"Learning never stops in any field — it only upgrades."*
+### 💡 *"Learning never stops — it only upgrades."*
 
-⭐️ *If you find my work interesting, feel free to star my repositories!*
 
 </div>
