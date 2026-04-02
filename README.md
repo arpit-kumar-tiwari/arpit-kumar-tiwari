@@ -17,7 +17,7 @@ I'm a passionate **Software Engineer** and **MERN Stack Developer** who believes
 - 🔭 Currently working on **Java**
 - 👯 Looking to collaborate on **Full Stack Web Projects**
 - 💬 Ask me about **React, Node.js, Express, MongoDB, or Java**
-- 📫 Reach me at: *arpitkumartiwari382@gmail.com*
+- 📫 Reach me at: *arpitktiwari05@gmail.com*
 - ⚡ Fun fact: *"The best code is the code you write today that your future self can still read tomorrow."*
 
 ---
