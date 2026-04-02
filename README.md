@@ -34,7 +34,7 @@ I'm a passionate **Software Engineer** and **MERN Stack Developer** who believes
   <a href="https://www.instagram.com/arpit.tiwari_05" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
   </a>&nbsp;
-  <a href="mailto:arpitkumartiwari382@gmail.com" target="_blank">
+  <a href="mailto:arpitktiwari05@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
   </a>
 </div>
